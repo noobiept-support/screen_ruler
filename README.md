@@ -1,1 +1,3 @@
-# screen_ruler
+# Screen Ruler Support
+
+Create an issue for help.
